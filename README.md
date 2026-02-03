@@ -2,5 +2,6 @@
 
 A new Flutter project.
 
-## Screen Shots
-<img src='doctor_application\screenshots\image.png>
+## Screenshots
+
+![Doctor Application](screenshots/image.png)
